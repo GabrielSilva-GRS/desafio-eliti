@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gabriel Ravanello Silva</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        img {
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+        a {
+            display: inline-block;
+            margin-top: 10px;
+            text-decoration: none;
+            color: blue;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Gabriel Ravanello Silva</h1>
+    <p>Hello world! </p>
+
+    <!-- Foto clicável que leva para W3Schools -->
+    <a href="https://www.w3schools.com" target="_blank">
+        <img src="imagens/gabriel-perfil1.jpg" alt="Foto de Gabriel" width="200">
+    </a>
+
+    <br>
+    <a href="https://www.w3schools.com" target="_blank">Ir para W3Schools</a>
